@@ -1,1 +1,1 @@
-pengimplementasian ui kedalam website dengan base mobile, yang berisikan konten zakat, sedekah, dan rumah ibadah
+pengimplementasian slicing ui kedalam website dengan base mobile, yang berisikan konten zakat, sedekah, dan rumah ibadah
