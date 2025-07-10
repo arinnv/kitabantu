@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components {
+    .body {
+        @apply bg-slate-100 font-inter;
+    }
+    .nav {
+        @apply bg-pink-kb w-full py-2 top-0 sticky;
+    }
+    .card-category {
+        @apply bg-[#F7F7F8] p-7 rounded-lg text-gray-600 font-semibold text-xl h-40;
+    }
+}
